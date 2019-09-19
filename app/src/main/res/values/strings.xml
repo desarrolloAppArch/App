@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ejemplo</string>
+    <string name="title_activity_cliente_ws">ClienteWsActivity</string>
+</resources>
