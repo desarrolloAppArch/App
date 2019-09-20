@@ -22,6 +22,10 @@
             android:label="@string/title_activity_gaby"
             android:theme="@style/AppTheme.NoActionBar"></activity>
         <activity
+            android:name=".Activity.SegundoActivityBlanky"
+            android:label="@string/title_activity_segundo_blanky"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity
             android:name=".Activity.BlankyActivity"
             android:label="@string/title_activity_blanky"
             android:theme="@style/AppTheme.NoActionBar" />

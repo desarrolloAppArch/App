@@ -4,4 +4,5 @@
     <string name="title_activity_gaby">GabyActivity</string>
     <string name="title_activity_blanky">BlankyActivity</string>
     <string name="title_activity_segundo_gaby">SegundoActivityGaby</string>
+    <string name="title_activity_segundo_blanky">SegundoActivityBlanky</string>
 </resources>
