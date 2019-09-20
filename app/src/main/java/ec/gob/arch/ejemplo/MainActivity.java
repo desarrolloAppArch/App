@@ -27,6 +27,7 @@ public class MainActivity extends AppCompatActivity {
         Log.v("logIrWs", "Ir a Pagina WS");
         Log.v("logIrWs", "log de prueba");
         Log.v("logIrWs", "Cambio de Prueba, Irvin");
+        Log.v("logIrWs", "Cambio de Prueba, Gaby");
         Log.v("logIrWs", "Otra prueba");
         Log.v("logIrWs", "Blanky prueba");
 
@@ -44,4 +45,9 @@ public class MainActivity extends AppCompatActivity {
 
 
     }
+
+    public void holaGaby(){
+        Log.v("logIrWs", "Cambio de Prueba, Gaby");
+    }
+
 }

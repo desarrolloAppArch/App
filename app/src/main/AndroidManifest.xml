@@ -14,6 +14,14 @@
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true">
         <activity
+            android:name=".Activity.SegundoActivityGaby"
+            android:label="@string/title_activity_segundo_gaby"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity
+            android:name=".Activity.GabyActivity"
+            android:label="@string/title_activity_gaby"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity
             android:name=".Activity.SegundoActivityBlanky"
             android:label="@string/title_activity_segundo_blanky"
             android:theme="@style/AppTheme.NoActionBar"></activity>
