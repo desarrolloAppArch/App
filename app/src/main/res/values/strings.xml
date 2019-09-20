@@ -2,4 +2,5 @@
     <string name="app_name">Ejemplo</string>
     <string name="title_activity_cliente_ws">ClienteWsActivity</string>
     <string name="title_activity_blanky">BlankyActivity</string>
+    <string name="title_activity_segundo_blanky">SegundoActivityBlanky</string>
 </resources>
