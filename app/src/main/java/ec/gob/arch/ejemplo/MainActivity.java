@@ -30,4 +30,8 @@ public class MainActivity extends AppCompatActivity {
         Log.v("logIrWs", "Otra prueba");
 
     }
+
+    public void holaIrvin(){
+        
+    }
 }
