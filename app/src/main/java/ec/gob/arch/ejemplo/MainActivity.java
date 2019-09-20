@@ -27,5 +27,7 @@ public class MainActivity extends AppCompatActivity {
         Log.v("logIrWs", "Ir a Pagina WS");
         Log.v("logIrWs", "log de prueba");
         Log.v("logIrWs", "Cambio de Prueba, Irvin");
+        Log.v("logIrWs", "Otra prueba");
+
     }
 }
