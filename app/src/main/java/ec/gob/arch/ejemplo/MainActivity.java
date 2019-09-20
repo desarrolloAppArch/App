@@ -28,10 +28,15 @@ public class MainActivity extends AppCompatActivity {
         Log.v("logIrWs", "log de prueba");
         Log.v("logIrWs", "Cambio de Prueba, Irvin");
         Log.v("logIrWs", "Otra prueba");
+        Log.v("logIrWs", "Blanky prueba");
+
 
     }
 
     public void holaIrvin(){
         
+    }
+    public void holaBlanky(){
+
     }
 }
