@@ -25,5 +25,6 @@ public class MainActivity extends AppCompatActivity {
         startActivity(irPagina);
 
         Log.v("logIrWs", "Ir a Pagina WS");
+        Log.v("logIrWs", "Cambio de Prueba, Irvin");
     }
 }
